@@ -1,5 +1,4 @@
 import cv2
-
 img = cv2.imread('../Resource/salt_and_pepper.png')
 
 cv2.imshow('Entrada', img)
